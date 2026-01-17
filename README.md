@@ -3,13 +3,13 @@
 ### MERN Stack Developer✨
 
 
-- 🌱 I'm currently learning _**Data Structures and Algorithms**
+- 🌱 I'm currently learning _ **Data Structures and Algorithms**
 
-- 💬 Ask me about _**MERN Stack**
+- 💬 Ask me about _ **MERN Stack**
 
-- 📫 How to reach me _**kunalkathore95@gmail.com**
+- 📫 How to reach me _ **kunalkathore95@gmail.com**
 
-- ⚡ Fun fact _**I am funny**
+- ⚡ Fun fact _ **I am funny**
 
 <h3 align="left">Bio:</h3>
 <p align="left">
