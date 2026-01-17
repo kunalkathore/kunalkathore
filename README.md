@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning _**Data Structures and Algorithms**
 
-- 💬 Ask me about _**MERN Stack Developer**
+- 💬 Ask me about _**MERN Stack**
 
 - 📫 How to reach me _**kunalkathore95@gmail.com**
 
