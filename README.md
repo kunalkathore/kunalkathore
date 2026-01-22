@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact _ **I am funny**
 
-<h3 align="left">Bio:</h3>
+<h3 align="left">Bio:</h3> 
 <p align="left">
   
 Full Stack Development learner with a strong focus on Data Structures and Algorithms. Actively improving problem-solving and coding skills through consistent practice. Aspiring to transition into Data Science and Machine Learning in the future 📊
