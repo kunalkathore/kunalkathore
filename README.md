@@ -67,8 +67,7 @@
 
 **Tools & OS**
 
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
 
