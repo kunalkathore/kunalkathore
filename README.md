@@ -24,13 +24,7 @@
 
 **Frontend**
 
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Figma](https://skillicons.dev/icons?i=figma)
+![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Figma](https://skillicons.dev/icons?i=figma)
 
 **Backend & Databases**
 
