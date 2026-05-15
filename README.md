@@ -1,7 +1,5 @@
 # Hi 👋, I'm Kunal 
-
-# MERN Stack
-
+<a href="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" target="blank">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/kunalkathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kunalkathore" height="30" width="40" /></a>
