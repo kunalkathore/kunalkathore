@@ -6,8 +6,6 @@
 <p align="left">
 <a href="https://github.com/kunalkathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kunalkathore" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/kunal-kathore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kunal-kathore/" height="30" width="40" /></a>
-<a href="https://codechef.com/users/www.codechef.com/users/kunalkathore05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="www.codechef.com/users/kunalkathore05" height="30" width="40" /></a>
-<a href="https://hackerrank.com/www.hackerrank.com/profile/kunalkathore95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="www.hackerrank.com/profile/kunalkathore95" height="30" width="40" /></a>
 <a href="https://leetcode.com/leetcode.com/u/kunalkathore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/kunalkathore/" height="30" width="40" /></a>
 </p>
 
