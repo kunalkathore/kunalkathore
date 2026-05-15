@@ -1,6 +1,6 @@
-# Hi 👋, I'm kunal kathore
+# Hi 👋, I'm Kunal 
 
-### MERN Stack
+# MERN Stack
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
