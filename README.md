@@ -1,1 +1,1 @@
-ikno
+ikn
