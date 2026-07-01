@@ -30,7 +30,6 @@ font=JetBrains+Mono&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&wid
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
----
  
 ### 📊 GitHub Stats
  
