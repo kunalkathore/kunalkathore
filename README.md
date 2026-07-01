@@ -34,7 +34,6 @@ font=JetBrains+Mono&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&wid
 ### 📊 GitHub Stats
  
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kunalkathore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://streak-stats.demolab.com/?user=kunalkathore&theme=tokyonight&hide_border=true" />
 </p>
 
