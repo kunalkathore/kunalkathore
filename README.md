@@ -38,14 +38,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=kunalkathore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://streak-stats.demolab.com/?user=kunalkathore&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkathore&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunalkathore&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-> Note: the stats/trophy widgets above are served by free public APIs (github-readme-stats, streak-stats, profile-trophy). They occasionally fail to load on first render or under heavy traffic — refresh the page, or open the image URL directly in a browser to force it to regenerate.
- 
+
 ---
  
 ### 🤝 Connect with Me
