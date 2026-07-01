@@ -9,25 +9,7 @@
  
 ### 🚀 About Me
  
-```txt
-> whoami
-Kunal Kathore
- 
-> currently.sharpening()
-Data Structures & Algorithms
- 
-> building.with()
-React, TypeScript, Node.js
- 
-> exploring()
-Data Science & Machine Learning
- 
-> location
-India
- 
-> status
-Open to collaborating on web dev & data projects
-```
+
  
 ---
  
@@ -48,26 +30,6 @@ Open to collaborating on web dev & data projects
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
-```yaml
-languages:  [HTML5, CSS3, JavaScript, TypeScript, Python]
-frameworks: [React, Node.js]
-data:       [SQL, Pandas, NumPy]
-bi_tools:   [Power BI, Tableau]
-tools:      [Git]
-```
- 
----
- 
-### 📌 Featured Projects
- 
-| Project | Description | Tech |
-|---|---|---|
-| [**FoodMuch**](https://github.com/kunalkathore/FoodMuch) | Food ordering platform — quick bites to full meals, fresh and fast | HTML |
-| [**AI-Data-Studio_AI-Data-Analyst**](https://github.com/kunalkathore/AI-Data-Studio_AI-Data-Analyst) | AI-powered data analysis studio | TypeScript |
-| [**BookMyShow**](https://github.com/kunalkathore/BookMyShow) | Movie/event ticket booking clone | TypeScript |
-| [**ride-x-anywhere-express**](https://github.com/kunalkathore/ride-x-anywhere-express) | Ride-booking web app | TypeScript |
-| [**DataViz**](https://github.com/kunalkathore/DataViz-Turn-Raw-Data-into-Stunning-Charts-Instantly-) | Turn raw data into stunning charts instantly | HTML |
- 
 ---
  
 ### 📊 GitHub Stats
