@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer in Progress | DSA-Focused | Exploring Data Science & Machine Learning 📊</h3>
  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;DSA+Enthusiast;Exploring+Data+Science+%26+ML;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+font=JetBrains+Mono&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;DSA+Enthusiast;Exploring+Data+Science+%26+ML;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 ---
  
