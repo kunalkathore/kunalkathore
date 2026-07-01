@@ -13,4 +13,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p> 
-<p align="center"><i>⭐️ From <a href="https://github.com/kunalkathore">kunalkathore</a> — Thanks for stopping by!</i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/kunalkathore">kunalkathore</a> — Thanks for stopping See U!</i></p>
