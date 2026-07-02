@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kunal Kathore</h1>
 
-### 🚀 About Me
+### 🎓 Education
 
-I build things with AI — not just talk about it. My most recent project is a fully automated workflow that takes a voice message, transcribes it using OpenAI, writes a LinkedIn post, and publishes it — all without human effort except one approval tap.
+- **B.Tech, Computer Science & Engineering** — Sandip University *(2023 – 2027)*
+- **MS, Computer Science Engineering** — Woolf *(2025 – 2028)*
+- **NxtWave CCBP 4.0 Academy "Genius"** — Specialisation 4.0 Technology *(2025 – 2027)*
 
-I'm 21, pursuing **B.Tech + MS simultaneously**, and have worked across **4 companies** in Python development, full-stack engineering, and AI automation in under a year.
+### 📜 Certifications
 
-- 🔭 Currently working as a **Data Analyst** at SkillCraft Technology
-- 🌱 Exploring **Gen AI, Automation (n8n), and MERN Full-Stack Development**
-- 💡 Open to roles in **Data Science, AI/ML, and Automation**
-- 📍 Based in Greater Nashik Area, Maharashtra, India
-- 📫 Reach me at **kunalkathore95@gmail.com**
+-   <a href="https://drive.google.com/drive/folders/1H19q2dJSjfLU1quxWZ_J-UtFiKs6CZAS?usp=drive_link" target="_blank">All_Certification</a> 
 
----
 
 ### 🛠️ Tech Stack
 
@@ -33,7 +30,6 @@ I'm 21, pursuing **B.Tech + MS simultaneously**, and have worked across **4 comp
 
 **Top Skills:** Systems Design · GitHub · Learning Agility
 
----
 
 📊 GitHub Stats
 
@@ -43,19 +39,7 @@ I'm 21, pursuing **B.Tech + MS simultaneously**, and have worked across **4 comp
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalkathore&theme=tokyo-night&hide_border=true" />
 </p>
----
 
-### 🎓 Education
-
-- **B.Tech, Computer Science & Engineering** — Sandip University *(2023 – 2027)*
-- **MS, Computer Science Engineering** — Woolf *(2025 – 2028)*
-- **NxtWave CCBP 4.0 Academy "Genius"** — Specialisation 4.0 Technology *(2025 – 2027)*
-
-### 📜 Certifications
-
--   <a href="https://drive.google.com/drive/folders/1H19q2dJSjfLU1quxWZ_J-UtFiKs6CZAS?usp=drive_link" target="_blank">All_Certification</a> 
-
----
 
 <p align="center">
 📫 Connect with Me
