@@ -2,9 +2,9 @@
 
 ### 🎓 Education
 
-- **B.Tech, Computer Science & Engineering** — Sandip University *(Present)*
-- **MS, Computer Science Engineering** — Woolf *(Present)*
-- **NxtWave CCBP 4.0 Academy "Genius"** — Specialisation 4.0 Technology *(Present)*
+- **B.Tech, Computer Science & Engineering** — Sandip University   *(Present)*
+- **MS, Computer Science Engineering** — Woolf   *(Present)*
+- **NxtWave CCBP 4.0 Academy "Genius"** — Specialisation 4.0 Technology   *(Present)*
 
 ### 📜 Certifications
 
