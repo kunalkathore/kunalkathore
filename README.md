@@ -68,7 +68,7 @@ I'm 21, pursuing **B.Tech + MS simultaneously**, and have worked across **4 comp
 ---
 
 <p align="center">
-### 📫 Connect with Me
+📫 Connect with Me
 </p>
 
 
