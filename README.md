@@ -75,7 +75,7 @@ I'm 21, pursuing **B.Tech + MS simultaneously**, and have worked across **4 comp
 
 ### 📜 Certifications
 
--   <a href="https://drive.google.com/drive/folders/1H19q2dJSjfLU1quxWZ_J-UtFiKs6CZAS?usp=drive_link" target="_blank">LinkedIn</a> 
+-   <a href="https://drive.google.com/drive/folders/1H19q2dJSjfLU1quxWZ_J-UtFiKs6CZAS?usp=drive_link" target="_blank">All_Certification</a> 
 
 ---
 
