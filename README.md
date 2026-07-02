@@ -67,9 +67,8 @@ I'm 21, pursuing **B.Tech + MS simultaneously**, and have worked across **4 comp
 
 ---
 
-### 📫 Connect with Me
-
 <p align="center">
+  ### 📫 Connect with Me
   <a href="https://www.linkedin.com/in/kunal-kathore" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -77,6 +76,7 @@ I'm 21, pursuing **B.Tech + MS simultaneously**, and have worked across **4 comp
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
----
+
+
 
 <p align="center"><i>⭐ Thanks for visiting my profile!</i></p>
