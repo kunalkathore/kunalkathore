@@ -75,10 +75,8 @@ I'm 21, pursuing **B.Tech + MS simultaneously**, and have worked across **4 comp
 
 ### 📜 Certifications
 
-- Introduction to Cybersecurity
-- SQL (Basic)
-- CSS (Cascading Style Sheets)
-- ![Python]([https://drive.google.com/drive/folders/1H19q2dJSjfLU1quxWZ_J-UtFiKs6CZAS?usp=drive_link])
+-   <a href="https://drive.google.com/drive/folders/1H19q2dJSjfLU1quxWZ_J-UtFiKs6CZAS?usp=drive_link" target="_blank">LinkedIn</a> 
+
 ---
 
 ### 📫 Connect with Me
