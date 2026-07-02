@@ -2,34 +2,9 @@
 
 ### 🎓 Education
 
-- **B.Tech, Computer Science & Engineering** — Sandip University   *(Present)*
-- **MS, Computer Science Engineering** — Woolf   *(Present)*
-- **NxtWave CCBP 4.0 Academy "Genius"** — Specialisation 4.0 Technology   *(Present)*
-
-### 📜 Certifications
-
--   <a href="https://drive.google.com/drive/folders/1H19q2dJSjfLU1quxWZ_J-UtFiKs6CZAS?usp=drive_link" target="_blank">All_Certification</a> 
-
-
-### 🛠️ Tech Stack
-
-**Languages & Core**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frameworks & Tools**
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-25D366?style=flat-square)
-![Gen AI](https://img.shields.io/badge/-Gen%20AI-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Top Skills:** Systems Design · GitHub · Learning Agility
-
+- **𝙱.𝚃𝚎𝚌𝚑, 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 & 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐** — Sandip University   *(Present)*
+- **𝙼𝚂, 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐** — Woolf   *(Present)*
+- **NxtWave CCBP 4.0 Academy "Genius𝚃𝚢𝚙𝚎"** — Specialisation 4.0 Technology   *(Present)*
 
 📊 GitHub Stats
 
