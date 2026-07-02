@@ -35,24 +35,15 @@ I'm 21, pursuing **B.Tech + MS simultaneously**, and have worked across **4 comp
 
 ---
 
-### 💼 Experience
+📊 GitHub Stats
 
-**Data Analyst — SkillCraft Technology**
-*June 2026 – Present*
-- Data collection, cleaning & preprocessing for analysis-ready datasets
-- Exploratory Data Analysis (EDA) to surface trends, patterns & insights
-- Built data visualizations & dashboards to communicate findings
-- Applied statistical/analytical techniques to real-world business problems
-
-**Web Developer — Humming Byte Technologies Pvt. Ltd.**
-*Feb 2026 – May 2026*
-- Designed and developed responsive web applications
-- Worked under mentorship on real-world development tasks
-
-**Python Developer / Junior Software Engineer — Sysslan IT Solutions**
-*Oct 2025 – Jan 2026*
-- Built an **AI automation workflow (n8n)**: Telegram voice message → OpenAI transcription → AI-generated LinkedIn post → human approval → auto-publish to LinkedIn
-
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kunalkathore&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkathore&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalkathore&theme=tokyo-night&hide_border=true" />
+</p>
 ---
 
 ### 🎓 Education
