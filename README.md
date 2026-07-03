@@ -28,10 +28,6 @@
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkathore&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalkathore&theme=tokyo-night&hide_border=true" />
-</p>
-
 
 <p align="center">
 📫 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝙼𝚎
