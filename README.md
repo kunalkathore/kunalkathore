@@ -27,7 +27,6 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=kunalkathore&show_icons=true" />
-  https://github-readme-stats-fast.vercel.app/api?username=kunalkathore&show_icons=true
 </p>
 
 <p align="center">
