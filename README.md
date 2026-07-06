@@ -29,8 +29,7 @@
 
 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 
-![](https://github-readme-stats.shion.dev/api?username=kunalkathore&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kunalkathore&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kunalkathore&theme=radical)](https://github.com/kunalkathore/github-readme-stats-fast)
 
 <p align="center">
 📫 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝙼𝚎
