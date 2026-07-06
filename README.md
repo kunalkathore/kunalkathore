@@ -31,6 +31,12 @@
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&hide=contribs,prs)
+
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Pranesh-2005&repo=github-readme-stats)](https://github.com/Pranesh-2005/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
 <p align="center">
 📫 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝙼𝚎
 </p>
