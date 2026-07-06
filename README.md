@@ -29,9 +29,8 @@
 
 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 
-![](https://github-readme-stats.shion.dev/api?username=kunalkathore&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kunalkathore&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kunalkathore&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=kunalkathore&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kunalkathore&theme=dark&hide_border=false)<br/>
 
 <p align="center">
 📫 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝙼𝚎
