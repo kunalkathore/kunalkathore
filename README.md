@@ -26,7 +26,8 @@
 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkathore&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=kunalkathore&show_icons=true" />
+  https://github-readme-stats-fast.vercel.app/api?username=kunalkathore&show_icons=true
 </p>
 
 <p align="center">
