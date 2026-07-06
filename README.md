@@ -26,7 +26,10 @@
 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kunalkathore&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+  https://github-readme-stats-fast.vercel.app/api/streak?username=kunalkathore&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+    <a href="  https://github-readme-stats-fast.vercel.app/api/streak?username=kunalkathore&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+"</a> 
+
 </p>
 
 <p align="center">
