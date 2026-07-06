@@ -29,7 +29,10 @@
 
 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kunalkathore&theme=radical)](https://github.com/kunalkathore/github-readme-stats-fast)
+<p align="center">    
+  
+  [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kunalkathore&theme=radical)](https://github.com/kunalkathore/github-readme-stats-fast)
+</p>
 
 <p align="center">
 📫 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝙼𝚎
