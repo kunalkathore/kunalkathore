@@ -34,7 +34,7 @@
  
 <div align="center">
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kunalkathore&theme=radical)](https://github.com/kunalkathore/github-readme-stats-fast)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
